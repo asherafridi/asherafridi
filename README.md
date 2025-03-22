@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ashir Afridi !](https://github.com/ashirafridi/)
+## Hey 👋, I'm [Ashir Afridi !](https://github.com/asherafridi/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afridiashir/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/afridiashir/)
@@ -18,7 +18,7 @@ I thrive on continuous learning and embracing a wide range of technologies and d
 ### What I'm Up To:
 
 - 🚀 &nbsp; As a Lead Software Engineer, I spearhead projects and architect solutions that push boundaries.
-- 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/ashirafridi).
+- 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/asherafridi).
 - 📫 &nbsp; How to reach me: ashirafridi.work@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf). -->
 
@@ -49,7 +49,7 @@ I thrive on continuous learning and embracing a wide range of technologies and d
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ashirafridi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashirafridi7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/asherafridi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asherafridi7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <div align="center">
 
