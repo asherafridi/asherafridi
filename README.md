@@ -20,7 +20,7 @@ I thrive on continuous learning and embracing a wide range of technologies and d
 - 🚀 &nbsp; As a Lead Software Engineer, I spearhead projects and architect solutions that push boundaries.
 - 👨🏻‍💻 &nbsp; You can explore some of my projects on [Github](https://github.com/ashirafridi).
 - 📫 &nbsp; How to reach me: ashirafridi.work@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf).
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/Hussain-7/Hussain-7/blob/main/Hussain%20Rizvi%20Resume.pdf). -->
 
 ### My Passions and Pursuits:
 
