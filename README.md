@@ -45,11 +45,10 @@ I thrive on continuous learning and embracing a wide range of technologies and d
 <code><img height="25" width="27" src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="terminal"></code>
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/asherafridi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asherafridi7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=asherafridi" alt="GitHub Streak" /></a>
 
 <div align="center">
 
